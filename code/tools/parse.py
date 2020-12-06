@@ -48,10 +48,10 @@ parser.add_argument('--nms-ol',
         default=0.1)
 parser.add_argument('--pos-iou',
         type=float,
-        default=0.5)
+        default=0.4)
 parser.add_argument('--neg-iou',
         type=float,
-        default=0.16)
+        default=0.1)
 parser.add_argument(
         '--batch-size',
         '-b',

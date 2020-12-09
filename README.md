@@ -8,6 +8,10 @@
 
     |
     |--code
+    |   |
+    |   |--data_generation.ipynb     data generation code
+    |   |
+    |   |--main.py                   object detecion model training and test code
     |
     |
     |--data
